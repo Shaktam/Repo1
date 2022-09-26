@@ -1,1 +1,3 @@
-Merging file
+# Merging file
+* Candy
+* Cookies
